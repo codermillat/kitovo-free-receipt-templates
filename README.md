@@ -93,6 +93,40 @@ Kitovo is a free receipt generator for small businesses, freelancers, landlords 
 - Privacy: https://www.kitovo.app/privacy — the generators process everything on your device; no receipt data is sent to a server.
 - Terms: https://www.kitovo.app/terms
 
+## Kitovo around the web — official profiles
+
+The verified Kitovo entity on the major platforms (the same profiles declared in Kitovo's
+`Organization.sameAs` knowledge-graph links):
+
+**Company profiles & listings**
+- Wikidata: https://www.wikidata.org/wiki/Q142247081
+- Crunchbase: https://www.crunchbase.com/organization/kitovo
+- Product Hunt: https://www.producthunt.com/products/kitovo
+- Trustpilot: https://www.trustpilot.com/review/kitovo.app
+- Indie Hackers: https://www.indiehackers.com/product/kitovo
+- Wellfound: https://wellfound.com/company/kitovo
+- F6S: https://www.f6s.com/kitovo
+- LinkedIn: https://www.linkedin.com/company/kitovo
+- Facebook: https://www.facebook.com/KitovoApp
+- X: https://x.com/KitovoApp
+- Reddit: https://www.reddit.com/user/KitovoApp/
+
+**Content & resources**
+- Blog: https://kitovoapp.wordpress.com
+- Hashnode: https://kitovo.hashnode.dev
+- Dev.to: https://dev.to/codermillat
+- Medium: https://medium.com/@millat06750/receipts-shouldnt-need-an-account-a-free-receipt-generator-for-small-businesses-e18e67ea65b7
+
+**Founder — MD Millat Hosen**
+- Website: https://millat.is-a.dev
+- GitHub: https://github.com/codermillat
+- LinkedIn: https://www.linkedin.com/in/codermillat
+- Peerlist: https://peerlist.io/codermillat
+- Gravatar: https://gravatar.com/codermillat
+
+Full list of every official profile, listing and article (35 links):
+[AROUND-THE-WEB.md](AROUND-THE-WEB.md)
+
 ## Licence
 
 Free to use for personal and commercial purposes, no attribution required — see [LICENSE](LICENSE.md). A link back to https://www.kitovo.app is appreciated but never required.
