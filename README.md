@@ -51,12 +51,18 @@ These are the same blank templates offered as downloads on [Kitovo](https://www.
 
 The Word and Excel files also open in free online office apps — no paid software needed.
 
-## Special tools on Kitovo (no download needed)
+## Featured tools on Kitovo (no download needed)
 
-- **Lost a receipt?** [Missing Receipt Declaration / Affidavit Generator](https://www.kitovo.app/lost-receipt-replacement/) — document a lost receipt for expense reimbursement.
-- **Rent receipts for tax / HRA:** the [Rent Receipt generator](https://www.kitovo.app/rent-receipt-template/) supports bulk monthly/quarterly periods and deposit records. Guide: [Rent receipt format for India (HRA)](https://www.kitovo.app/blog/rent-receipt-format-india/)
-- **EU B2B / reverse charge:** [EU Receipt Generator](https://www.kitovo.app/eu-receipt-generator/)
-- **UK receipts:** [UK Receipt Generator](https://www.kitovo.app/uk-receipt-generator/)
+Tools you won't find in a typical free receipt maker — all free, no sign-up, no watermark, generated 100% in your browser:
+
+- **Missing Receipt Declaration & Affidavit Generator** — [kitovo.app/lost-receipt-replacement](https://www.kitovo.app/lost-receipt-replacement/)
+  Lost the original receipt? Build a clean, audit-ready Missing Receipt Declaration PDF for expense reports or tax files: itemised expense details, the reason the original is unavailable, a claimant attestation, and manager/approver signature lines. Clearly labelled as a self-attested statement — not a merchant-issued receipt.
+- **Bulk Multi-Month Rent Receipts + Security Deposit Return** — [kitovo.app/rent-receipt-template](https://www.kitovo.app/rent-receipt-template/)
+  Generate 2–24 sequential monthly receipts, or quarterly (3-month) receipts, in a single multi-page A4 PDF — with 1-click presets for a calendar year, quarterly, or the Apr–Mar fiscal year (UK/India). The same generator has a **Security Deposit Return mode**: an itemised deduction statement that works out the net refund (or balance owed) when a tenancy ends. Also supports rent receipts for tax / HRA — guide: [Rent receipt format for India (HRA)](https://www.kitovo.app/blog/rent-receipt-format-india/)
+- **Petty Cash Voucher mode** — [kitovo.app/cash-receipt-template](https://www.kitovo.app/cash-receipt-template/)
+  The Cash Receipt generator doubles as a petty cash voucher: cost codes, vendor slip tracking, and 3-party signatures (Issued / Received / Approved) for office cash expenses.
+- **EU & UK VAT Reverse Charge receipts** — [EU Receipt Generator](https://www.kitovo.app/eu-receipt-generator/) · [UK Receipt Generator](https://www.kitovo.app/uk-receipt-generator/)
+  EUR/GBP receipts with VAT fields and reverse-charge handling for cross-border B2B services, where VAT liability shifts to the buyer. Guide: [EU & UK receipts and VAT reverse charge](guides/eu-uk-vat-reverse-charge.md)
 - **Freelancers:** [Freelance Receipt Generator](https://www.kitovo.app/freelance-receipt-generator/)
 - **Proforma invoices:** [Proforma Invoice Template](https://www.kitovo.app/proforma-invoice-template/)
 
